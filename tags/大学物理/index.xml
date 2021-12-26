@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大学物理 on Make</title>
+    <link>https://make1205.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/</link>
+    <description>Recent content in 大学物理 on Make</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 23 Dec 2021 11:35:35 +0800</lastBuildDate><atom:link href="https://make1205.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CollegePhysics</title>
+      <link>https://make1205.github.io/post/collegephysics/</link>
+      <pubDate>Thu, 23 Dec 2021 11:35:35 +0800</pubDate>
+      
+      <guid>https://make1205.github.io/post/collegephysics/</guid>
+      <description>1. 运动  1.1. 位移和速度矢量 1.2. 加速度 1.3. 基变换 1.4. 抛物运动 1.5. 圆周运动   2. 力和运动  2.1. 牛顿运动定律 2.2. 受力分析  2.2.1. 流体摩擦  2.2.1.1. 空气阻力 2.2.1.2. 斯托克斯定律       3. 能量和动量  3.1. 能量 3.2. 能量守恒  3.2.1. 能量的转化 3.2.2. 势能   3.3. 线动量  3.3.1. 冲量 3.3.2. 动量守恒     4. 转动  4.1. 旋转运动 4.2. 刚体转动  4.</description>
+    </item>
+    
+  </channel>
+</rss>
