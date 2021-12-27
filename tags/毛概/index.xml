@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Make</title>
-    <link>https://make1205.github.io/</link>
-    <description>Recent content on Make</description>
+    <title>毛概 on Make</title>
+    <link>https://make1205.github.io/tags/%E6%AF%9B%E6%A6%82/</link>
+    <description>Recent content in 毛概 on Make</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Dec 2021 11:35:35 +0800</lastBuildDate><atom:link href="https://make1205.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CollegePhysics</title>
-      <link>https://make1205.github.io/post/collegephysics/</link>
-      <pubDate>Thu, 23 Dec 2021 11:35:35 +0800</pubDate>
-      
-      <guid>https://make1205.github.io/post/collegephysics/</guid>
-      <description>1. 运动  1.1. 位移和速度矢量 1.2. 加速度 1.3. 基变换 1.4. 抛物运动 1.5. 圆周运动   2. 力和运动  2.1. 牛顿运动定律 2.2. 受力分析  2.2.1. 流体摩擦  2.2.1.1. 空气阻力 2.2.1.2. 斯托克斯定律       3. 能量和动量  3.1. 能量 3.2. 能量守恒  3.2.1. 能量的转化 3.2.2. 势能   3.3. 线动量  3.3.1. 冲量 3.3.2. 动量守恒     4. 转动  4.1. 旋转运动 4.2. 刚体转动  4.</description>
-    </item>
-    
-    <item>
-      <title>LALP</title>
-      <link>https://make1205.github.io/post/lalp/</link>
-      <pubDate>Thu, 23 Dec 2021 11:35:35 +0800</pubDate>
-      
-      <guid>https://make1205.github.io/post/lalp/</guid>
-      <description>线性映射，特征值特征向量，矩阵对角化 线性映射，矩阵表示，矩阵的秩 矩阵换基底 对角矩阵 特征值特征向量 特征多项式 对角化算法 对角化的应用 Jordan标准型 </description>
-    </item>
-    
+    <lastBuildDate>Thu, 23 Dec 2021 11:35:35 +0800</lastBuildDate><atom:link href="https://make1205.github.io/tags/%E6%AF%9B%E6%A6%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>毛概</title>
       <link>https://make1205.github.io/post/%E6%AF%9B%E6%A6%82/</link>
@@ -58,24 +40,6 @@
  绿水青山就是金山银山的论证关系  其一，“宁要绿水青山，不要金山银山”体现了二者之间的彼此对应关系;
 其二，“既要绿水青山，也要金山银山”体现了二者之间的互融互补关系;
 其三，“绿水青山就是金山银山”体现了二者之间的内在统一关系。</description>
-    </item>
-    
-    <item>
-      <title>Matlab(1)</title>
-      <link>https://make1205.github.io/post/matlab1/</link>
-      <pubDate>Sat, 18 Dec 2021 15:06:12 +0800</pubDate>
-      
-      <guid>https://make1205.github.io/post/matlab1/</guid>
-      <description>1. Matlab基础  1.1. Matlab系统环境  1.1.1. Matlab操作界面组成 1.1.2. Matlab搜索路径   1.2. Matlab数值数据  1.2.1. 数值数据类型 1.2.2. 数值数据输出格式 1.2.3. 常用数学函数  1.2.3.1. 函数的调用格式 1.2.3.2. 常用函数的应用  1.2.3.2.1. 三角函数 1.2.3.2.2. abs函数 1.2.3.2.3. 取整函数 1.2.3.2.4. 函数应用举例       1.3. 变量及其操作  1.3.1. 变量和赋值语句 1.3.2. 预定义变量 1.3.3. 变量管理  1.3.3.1. 内存变量的删除和修改 1.3.3.2. 内存变量文件     1.4. Matlab矩阵表示  1.4.1. 矩阵建立 1.4.2. 冒号表达式 1.4.3. 结构矩阵和单元矩阵  1.</description>
-    </item>
-    
-    <item>
-      <title>Matlab(2)</title>
-      <link>https://make1205.github.io/post/matlab2/</link>
-      <pubDate>Sat, 18 Dec 2021 15:06:12 +0800</pubDate>
-      
-      <guid>https://make1205.github.io/post/matlab2/</guid>
-      <description></description>
     </item>
     
   </channel>

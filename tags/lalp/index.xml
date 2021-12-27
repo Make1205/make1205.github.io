@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LALP on Make</title>
+    <link>https://make1205.github.io/tags/lalp/</link>
+    <description>Recent content in LALP on Make</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 23 Dec 2021 11:35:35 +0800</lastBuildDate><atom:link href="https://make1205.github.io/tags/lalp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LALP</title>
+      <link>https://make1205.github.io/post/lalp/</link>
+      <pubDate>Thu, 23 Dec 2021 11:35:35 +0800</pubDate>
+      
+      <guid>https://make1205.github.io/post/lalp/</guid>
+      <description>线性映射，特征值特征向量，矩阵对角化 线性映射，矩阵表示，矩阵的秩 矩阵换基底 对角矩阵 特征值特征向量 特征多项式 对角化算法 对角化的应用 Jordan标准型 </description>
+    </item>
+    
+  </channel>
+</rss>
